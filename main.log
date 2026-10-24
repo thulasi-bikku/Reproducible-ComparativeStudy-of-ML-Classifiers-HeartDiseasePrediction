@@ -1,0 +1,9 @@
+LR 0.911 0.842 elapsed 3
+NB 0.879 0.83 elapsed 5
+SVM 0.9 0.827 elapsed 8
+KNN 0.892 0.821 elapsed 10
+DT 0.75 0.732 elapsed 13
+RF 0.901 0.82 elapsed 27
+GB 0.874 0.796 elapsed 38
+NN 0.895 0.826 elapsed 60
+done
